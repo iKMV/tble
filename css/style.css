@@ -1,0 +1,16 @@
+#design, td {
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 14px;
+}
+#design td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  color: black;
+}
+.center {
+  text-align: center;
+}
+.color {
+  background-color: black;
+}
